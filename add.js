@@ -10,6 +10,7 @@ function Add(arr){
  /*
 Command:
 node add 2 3
+Output:
 Sum of 2 , 3 is 5
 
  */ 

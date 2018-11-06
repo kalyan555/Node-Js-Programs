@@ -17,5 +17,6 @@ function Prime(arr){
   /*
 Command:
 node prime 5
+Output:
 number: 5 is a prime number
  */

@@ -15,5 +15,6 @@ Fib(process.argv.slice(2));
  /*
 Command:
 node Fibonacci 5
+Output:
 Fibonacci term of 5 is 3
  */

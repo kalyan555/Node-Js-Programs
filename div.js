@@ -10,5 +10,6 @@ Div(process.argv.slice(2));
  /*
 Command:
 node div 2 3
+Output:
 Div of 3 , 2 is 1.5
  */

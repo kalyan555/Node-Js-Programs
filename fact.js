@@ -13,5 +13,6 @@ function Fact(arr){
   /*
 Command:
 node fact 5
+Output:
 Factorial of 5 is 120
  */

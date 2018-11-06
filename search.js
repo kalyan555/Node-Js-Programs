@@ -17,5 +17,6 @@ function Search(arr){
 /*
 Command:
 node search 5 1 5 6 9 7
+Output:
 number: 5 is found
 */

@@ -16,5 +16,6 @@ function MinMax(arr){
   /*
 Command:
 node MinMax 3 6 8 7 6 9
+Output:
 Max: 9  Min: 3
  */

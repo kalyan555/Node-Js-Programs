@@ -9,5 +9,6 @@ Mul(process.argv.slice(2));
  /*
 Command:
 node mul 2 3
+Output:
 Multiplication of 3 , 2 is 6
  */

@@ -9,6 +9,7 @@ Sort(process.argv.slice(2));
  /*
 Command:
 node minus 2 3
+Output:
 Substraction of 3 , 2 is 1
 
  */

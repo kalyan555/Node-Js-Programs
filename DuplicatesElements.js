@@ -13,5 +13,6 @@ function Duplicate(arr){
 /*
 Command:
 node DuplicatesElements 3 6 8 6 7 6 9 9 1 3
+Output:
 Duplicate Elements: Set { 3, 6, 9 }
  */
