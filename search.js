@@ -13,3 +13,9 @@ function Search(arr){
     else console.log('number:',n,'is not found');
  }
  Search(process.argv.slice(2));
+
+/*
+Command:
+node search 5 1 5 6 9 7
+number: 5 is found
+*/

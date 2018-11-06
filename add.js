@@ -5,3 +5,11 @@ function Add(arr){
     
   }
  Add(process.argv.slice(2));
+
+ 
+ /*
+Command:
+node add 2 3
+Sum of 2 , 3 is 5
+
+ */ 

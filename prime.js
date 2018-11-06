@@ -13,3 +13,9 @@ function Prime(arr){
    else console.log('number:',n,'is a not prime number');
  }
  Prime(process.argv.slice(2));
+
+  /*
+Command:
+node prime 5
+number: 5 is a prime number
+ */

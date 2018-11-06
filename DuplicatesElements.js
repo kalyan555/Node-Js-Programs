@@ -9,3 +9,9 @@ function Duplicate(arr){
     console.log("Duplicate Elements:",set);
   }
   Duplicate(process.argv.slice(2));
+
+/*
+Command:
+node DuplicatesElements 3 6 8 6 7 6 9 9 1 3
+Duplicate Elements: Set { 3, 6, 9 }
+ */

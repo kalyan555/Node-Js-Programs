@@ -12,3 +12,9 @@ function MinMax(arr){
    console.log("Max:",max," Min:",min);
  }
  MinMax(process.argv.slice(2));
+
+  /*
+Command:
+node MinMax 3 6 8 7 6 9
+Max: 9  Min: 3
+ */

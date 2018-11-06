@@ -11,3 +11,9 @@ function Fib(arr){
     console.log('Fibonacci term of',n,'is',ans) ;
   }
 Fib(process.argv.slice(2));
+
+ /*
+Command:
+node Fibonacci 5
+Fibonacci term of 5 is 3
+ */
