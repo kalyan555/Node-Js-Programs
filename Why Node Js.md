@@ -5,7 +5,9 @@ Here is how PHP or ASP handles a file request:
 2.	Waits while the file system opens and reads the file.
 3.	Returns the content to the client.
 4.	Ready to handle the next request.
+
 Here is how Node.js handles a file request:
+
 1.	Sends the task to the computer's file system.
 2.	Ready to handle the next request.
 3.	When the file system has opened and read the file, the server returns the content to the client.
